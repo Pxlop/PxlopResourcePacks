@@ -1,3 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #292929;
+    color: white;
+}
+
 h1 {
     text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #bcbcbc;
+    text-decoration: none;
 }
